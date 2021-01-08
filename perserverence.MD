@@ -1,0 +1,5 @@
+##  Perserverence
+
+####  Throughout the course of my life, I have found out that I am rarely naturally gifted at things.  More often than not I have a *"knack"* at doing something.  This is often the result of hours of training, or practice.  I've been faced with a road block for over a month.  I'm sure for some, this would have been an easy obstacle to overcome, however I was blocked and it took me longer to sort it out.  However, today, I finally overcame my problem.  I hate to admit it, but I often learn lessons the hard way.  Once I learn the lesson, I rarely make the same mistake.  The feeling of working out a problem is so great.  Earlier in life, I would quickly give up when things got tough.  It was always more appealing to take the easy way out, but I never felt challenged.  Fast forward to now. Although I don't openly welcome challenges, I'm certainly more well equipped to deal with them now, than I was.  Here's to perserverence!!
+
+[You can do it](https://mars.nasa.gov/mars2020/).

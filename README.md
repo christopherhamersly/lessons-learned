@@ -4,4 +4,5 @@
 
 #####  Table of Contents 
 1. [Setting a Routine](https://christopherhamersly.github.io/lessons-learned/routine)
-1. [Being Creative](https://christopherhamersly.github.io/lessons-learned/creativity)
+1. [Getting Inspiration](https://christopherhamersly.github.io/lessons-learned/inspiration)
+1. [Creativity](https://christopherhamersly.github.io/lessons-learned/creativity)

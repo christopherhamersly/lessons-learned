@@ -1,4 +1,4 @@
-# Manipulation
+# Object Manipulation
 
 #### The most significant lesson I have learned is how to manipulate information.  For the most part, information will come back in two different forms; either as an object, or as an array.  In this article, I will discuss how to manipulate an object.  
 
